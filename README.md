@@ -10,17 +10,19 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
-###
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mehmet Sedat Kartal
+===========================================================================================================================================
 
-<h1 align="center">Hi 👋 My name is Buket Senol</h1>
+Full-Stack Web Developer & Web Designer
+---------------------------------------
 
-###
+Welcome to my GitHub profile! I am a Full Stack Web Developer with a passion for creating dynamic and user-friendly web applications.
 
-<h3 align="center">👩‍💻  Full-Stack Web Developer & Web Designer</h3>
-
-###
-
-<p align="left">I'm based in İstanbul/Türkiye<br><br>- 👨‍💻 I’m working as Freelancer<br>- 📚 I'm currently learning Python<br>- 🤝 I'm open to collaborating on Projects.</p>
+* 🌍  I'm based in İstanbul/Türkiye
+* 🖥️  See my portfolio at [My Portfolio](http://msedatkartal.github.io/portfolio-1/)
+* ✉️  You can contact me at [msedatkartal@gmail.com](mailto:msedatkartal@gmail.com)
+* 🧠  I'm learning Python
+* 🤝  I'm open to collaborating on Projects.
 
 ###
 
