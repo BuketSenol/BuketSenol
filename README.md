@@ -75,16 +75,24 @@ Welcome to my GitHub profile! I am a Full Stack Web Developer with a passion for
 ###
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/BuketSenol" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/BuketSenol"><img src="https://github-readme-stats.vercel.app/api?username=BuketSenol&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0f172a&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="BuketSenol's GitHub stats" /></a>
 
 <a href="http://www.github.com/BuketSenol"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BuketSenol&stroke=0f172a&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=0f172a&currStreakLabel=0891b2&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
 <a href="https://github.com/BuketSenol" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuketSenol&langs_count=10&title_color=0891b2&text_color=0f172a&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
+
+
