@@ -81,6 +81,8 @@ Welcome to my GitHub profile! I am a Full Stack Web Developer with a passion for
 
 ### Badges
 
+### Badges
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/BuketSenol"><img src="https://github-readme-stats.vercel.app/api?username=BuketSenol&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0f172a&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="BuketSenol's GitHub stats" /></a>
