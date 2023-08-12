@@ -74,23 +74,17 @@ Welcome to my GitHub profile! I am a Full Stack Web Developer with a passion for
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=BuketSenol&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
-###
+### Socials
 
-<div align="left">
-</div>
+<p align="left"> <a href="https://www.github.com/BuketSenol" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-###
+### Badges
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BuketSenol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-</div>
+<b>My GitHub Stats</b>
 
-###
+<a href="http://www.github.com/BuketSenol"><img src="https://github-readme-stats.vercel.app/api?username=BuketSenol&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0f172a&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="BuketSenol's GitHub stats" /></a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BuketSenol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
+<a href="http://www.github.com/BuketSenol"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BuketSenol&stroke=0f172a&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=0f172a&currStreakLabel=0891b2&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+
+<a href="https://github.com/BuketSenol" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuketSenol&langs_count=10&title_color=0891b2&text_color=0f172a&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
